@@ -75,7 +75,7 @@ button.btn.btn-default {
     opacity: 0.6;
 }
 .floating-input , .floating-select {
-    font-size:14px;
+    font-size:15pt;
     padding:4px 4px;
     display:block;
     width:100%;
@@ -107,7 +107,7 @@ button.btn.btn-default {
 }
 .floating-form  label {
     color:#999; 
-    font-size:14px;
+    font-size:15pt;
     font-weight:normal;
     position:absolute;
     pointer-events:none;
