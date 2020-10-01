@@ -27,7 +27,7 @@ body {
 /*----------------------------------------------*/
 .mb-container {
   max-width: 375pt;
-  max-height: 745pt;
+  height: 100vh;
   overflow: hidden;
   background-color: #ffffff;
   margin: 0px auto;
