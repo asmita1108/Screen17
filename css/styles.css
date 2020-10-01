@@ -27,7 +27,7 @@ body {
 /*----------------------------------------------*/
 .mb-container {
   max-width: 375pt;
-  height: auto;
+  height: 100%;
   overflow: hidden;
   background-color: #ffffff;
   margin: 0px auto;
@@ -46,7 +46,7 @@ body {
 .title-pedija {
   width: 128px;
   height: 53px;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 30px ;   
   font-family: pedija-bold;
   font-weight:400;
