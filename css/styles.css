@@ -33,20 +33,21 @@ body {
   margin: 0px auto;
   opacity: 1;
   border: 1px solid #eee;
-  padding: 25px 15px;
+  padding: 30px 15px;
 }
 
 /*----------------------------------------------
 /* Header */
 /*----------------------------------------------*/
 .icon-holder {
-    display: block
+    display: block;
 }
 
 .title-pedija {
   width: 128px;
   height: 53px;
-  margin-top: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px ;   
   font-family: pedija-bold;
   font-weight:400;
   font-size: 40px;
@@ -69,7 +70,7 @@ button.btn.btn-default {
 }
 .inputImg{
     position: absolute;
-    top: 0px;
+    top: 6px;
     z-index: 1;
     left: 0;
     opacity: 0.6;
